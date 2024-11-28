@@ -19,7 +19,7 @@ export default function Home() {
           {/* Text Content */}
           <div className="lg:w-1/2 space-y-6">
             <h1 className="text-4xl lg:text-6xl font-bold leading-tight">
-              Hi, I'm{" "}
+              Hi, I&apos;m{" "}
               <span className="text-yellow-300">Josh Cheetham</span>
             </h1>
             <ReactTyped
@@ -93,7 +93,7 @@ export default function Home() {
           </h2>
           <p className="text-lg leading-relaxed text-gray-600">
             With over a decade of experience in coaching and network marketing,
-            I've guided countless individuals to discover their full potential.
+            I&apos;ve guided countless individuals to discover their full potential.
             My mission is to empower others to achieve success through personal
             branding, strategic leadership, and sustainable growth strategies.
           </p>
@@ -138,8 +138,8 @@ export default function Home() {
         <div className="container mx-auto space-y-6">
           <h2 className="text-3xl font-bold">Ready to Work Together?</h2>
           <p className="text-lg">
-            Whether you're looking to grow your business or take your career to
-            the next level, I'm here to help. Let's create a strategy tailored
+            Whether you&apos;re looking to grow your business or take your career to
+            the next level, I&apos;m here to help. Let&apos;s create a strategy tailored
             to your goals.
           </p>
           <Link
